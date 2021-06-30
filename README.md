@@ -8,4 +8,5 @@ Using the client-server system we sent accelerometer and gravity sensor data fro
 Collaborators:
 
 Dikshant Raj
+
 Dhruv Kashyap
