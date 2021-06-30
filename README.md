@@ -5,3 +5,7 @@ By utilising the server that we built in Python and having stored our data in th
 
 Using the client-server system we sent accelerometer and gravity sensor data from the client(android device) to the server(pc) and we were successfully able to plot the trajectory of the android phone on a 3D plot using Matplotlib Simulation Module ,and this was the second application of utilizing our data in a meaningful way where we simulated the movement of the android device and represented it on a 3-D graph.
 
+Collaborators:
+
+Dikshant Raj
+Dhruv Kashyap
